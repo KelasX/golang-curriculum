@@ -4,10 +4,13 @@ Curriculum for Go
 ## Go Fundamental
 
 - Course Overview
-- Install Go, MAC / Windows / Linux
-- Setup Environment (GOPATH)
-- Packages in Go
-- Usage of Go Command
+- Install Go:
+  - [Install in MAC](https://asciinema.org/a/138113)
+  - Install in Windows
+  - Install in GNU/Linux
+- [Setup Environment (GOPATH)](https://asciinema.org/a/138114)
+- [Packages in Go](https://asciinema.org/a/138115)
+- [Usage of Go Command](https://asciinema.org/a/138116)
 - Variables
 - Blank Identifier
 - Packages Scope
