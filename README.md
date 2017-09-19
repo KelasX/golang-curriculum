@@ -11,7 +11,7 @@ Curriculum for Go
 - [Setup Environment (GOPATH)](https://asciinema.org/a/138114)
 - [Packages in Go](https://asciinema.org/a/138115)
 - [Usage of Go Command](https://asciinema.org/a/138116)
-- Variables
+- [Variables](https://asciinema.org/a/138296)
 - Blank Identifier
 - Packages Scope
 - Constants
